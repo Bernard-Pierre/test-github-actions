@@ -31,3 +31,4 @@ jobs:
     - name: Test
       run: |
         echo run the tests here
+        python ot.py
